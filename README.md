@@ -1,7 +1,9 @@
 ### Leetcode-Solutions
 Optimized Solutions for Leetcode Problems
 
-|#      | Problem | Solution | Time Complexity | Space Complexity |
-|-------|---------|----------|-----------------|------------------|
+|#      | Problem | Solution |
+|-------|---------|----------|
 |1295   |
 |1642   |
+|34     |
+|744    |
