@@ -1,3 +1,4 @@
+package Basics;
 public class evenDigits {
     public static void main(String[] args) {
         int arr[] = { 88, 88782, 542, 23, -444 };
